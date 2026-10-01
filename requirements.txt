@@ -1,9 +1,6 @@
-langchain
-langchain-openai
-langchain-community
-chromadb
-pypdf
+ollama
 pymupdf
 pytesseract
 Pillow
 python-dotenv
+chromadb
